@@ -5,7 +5,7 @@ desktop wallpaper). The Daedric script is real: it is set in **OMW Ayembedt** by
 (SIL Open Font License 1.1), which maps the Latin letters A–Z onto the Daedric
 alphabet, so every inscription is a readable phrase.
 
-![wallpaper](screenshots/wallpaper.png)
+![wallpaper](screenshots/wallpaper.jpg)
 
 Plasma 6 draws the lock screen's clock, avatar and password field itself, and a
 theme cannot replace them. This plugin is everything behind them. Plasma blurs the
