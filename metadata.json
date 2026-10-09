@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "splicer scorn (voidrane)"
+            }
+        ],
+        "Category": "",
+        "Description": "Dark Morrowind shrine wallpaper for the lock screen: turning rings of live Daedric script, rune banners, ash and embers",
+        "Icon": "preferences-desktop-color",
+        "Id": "scorn.daedricmorrowind",
+        "License": "GPL-3.0-or-later",
+        "Name": "Daedric Morrowind",
+        "Website": "https://github.com/numbpill3d/daedric-morrowind-lockscreen",
+        "Version": "1.0"
+    }
+}
